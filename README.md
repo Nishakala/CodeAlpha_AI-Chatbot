@@ -1,2 +1,8 @@
-# CodeAlpha_AI-Chatbot
-Develop an advanced AI chatbot capable of natural language processing and understanding. Implement dialogue management, sentiment analysis, and the ability to answer complex questions.
+# C-Chatbot
+A simple chatbot written in c++
+
+Allows user to ask the bot a question
+
+If the bot knows the answer it will give the answer to the user.
+
+If the bot does not know the answer, the bot will ask the user for the answer, and then store it for later use
