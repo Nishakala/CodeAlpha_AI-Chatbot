@@ -1,4 +1,10 @@
 #include <string>
+#ifndef QUESTION_H
+#define QUESTION_H
+
+// Your class definition for question goes here
+
+#endif // QUESTION_H
 
 class question
 {
